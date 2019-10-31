@@ -15,7 +15,7 @@ class DynamicWidgetsApp(App):
     """Main program - Kivy app to demo dynamic widget creation."""
     status_text = StringProperty()
 
-    def __init__(self, **kwargs):
+    def __init2__(self, **kwargs):
         """Construct main app."""
         super().__init__(**kwargs)
         # basic data example - dictionary of names: phone numbers

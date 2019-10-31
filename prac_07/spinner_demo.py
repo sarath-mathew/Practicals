@@ -1,9 +1,3 @@
-"""
-CP1404 Spinner Demo - loads values at run-time
-Lindsay Ward, IT@JCU
-14/10/2015
-"""
-
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.properties import StringProperty
